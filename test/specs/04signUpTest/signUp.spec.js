@@ -3,7 +3,7 @@ import Main from '../../pageobjects/main.page'
 import Signup from '../../pageobjects/signup.page'
 import UserDetails from '../../pageobjects/userdetails.page'
 
-describe('primarybid.com test - Sign Up - ', () => {
+describe('primarybid.com test - Sign Up workflow - ', () => {
 
   let randomIndex = Math.floor(Math.random() * 51234343);
 
