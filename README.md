@@ -1,4 +1,4 @@
-# primarybid
+### pb automation exercise
 
 Tests created using Webdriverio, Jasmine, and Babel compiler as per specifications.
 Using this framework it would be very straightforward to add BDD style syntax. 
